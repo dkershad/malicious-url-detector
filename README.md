@@ -61,6 +61,7 @@ git clone https://github.com/dkershad/malicious-url-detector.git
 ### 2. Install Dependencies
 ```bash
 npm install
+npm run dev:full
 ```
 
 ### 3. Setup Environment Variables
