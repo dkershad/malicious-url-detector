@@ -1,0 +1,12 @@
+{
+  "name": "ShieldScan - Malicious URL Detector",
+  "short_name": "ShieldScan",
+  "description": "AI-powered malicious URL detection and threat analysis",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020c0a",
+  "theme_color": "#0db88c",
+  "icons": [
+    { "src": "/favicon.ico", "sizes": "64x64", "type": "image/x-icon" }
+  ]
+}

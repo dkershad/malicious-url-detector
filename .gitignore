@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+*.log
+reports/screenshots/*
+reports/scan-reports/*
+reports/analytics/*
+ml-model/*.pkl
+__pycache__/
+*.pyc
+.DS_Store
