@@ -55,7 +55,7 @@ A full-stack web application that detects phishing, malware, and scam URLs in re
 ### 1. Clone Repository
 ```bash
 git clone https://github.com/dkershad/malicious-url-detector.git
-cd malicious-url-detector
+
 ```
 
 ### 2. Install Dependencies
